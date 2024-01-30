@@ -1,0 +1,4 @@
+#canvas {
+    border: 1px solid black;
+    touch-action: none; /* Impedisce il comportamento predefinito del tocco, come lo scroll o lo zoom */
+}
